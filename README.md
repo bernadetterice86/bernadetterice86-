@@ -73,6 +73,7 @@ I’m currently seeking an **entry-level data analyst opportunity** where I can 
 - ## 🔗 Connect With Me
 
 - www.linkedin.com/in/bernadette-rice-1994563b4
+- email: bernadette.rice86@gmail.com
 - 
 
 ---
