@@ -68,7 +68,12 @@ I’m currently seeking an **entry-level data analyst opportunity** where I can 
 - Strengthening SQL and data analysis skills  
 - Building portfolio projects  
 - Expanding knowledge in Python and R  
-- Learning data visualization tools  
+- Learning data visualization tools
+
+- ## 🔗 Connect With Me
+
+- www.linkedin.com/in/bernadette-rice-1994563b4
+- 
 
 ---
 
