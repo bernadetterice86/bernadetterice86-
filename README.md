@@ -34,7 +34,16 @@ My unique value lies in combining technical training with real-world experience 
 - Data cleaning and organization  
 - Foundational data visualization  
 
----
+---## 📂 Projects
+
+### 🔹 SQL Project  
+🚧 *Coming Soon*
+
+### 🔹 Capstone Project  
+🚧 *Coming Soon*
+
+### 🔹 Excel Project  
+🚧 *Coming Soon*
 
 ## 🌍 Areas of Interest
 
